@@ -1,13 +1,57 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "Lyra's Jingles",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Pseudoregalia",
+      "file": "jingles/pc/pseudoregalia.mp3"
+    },
+	{
+      "game": "KAMIKO",
+      "file": "jingles/pc/kamiko.mp3"
+    },
+	{
+      "game": "ATLYSS",
+      "file": "jingles/pc/atlyss1.mp3"
+    },
+	{
+      "game": "ATLYSS",
+      "file": "jingles/pc/atlyss2.mp3"
+    },
+	{
+      "game": "SIGNALIS",
+      "file": "jingles/pc/signalis.mp3"
+    },
+	{
+      "game": "ULTRAKILL",
+      "file": "jingles/pc/ultrakill.mp3"
+    },
+	{
+      "game": "Scanner Sombre",
+      "file": "jingles/pc/scannersombre.mp3"
+    },
+	{
+      "game": "Mirror's Edge",
+      "file": "jingles/pc/mirrorsedge.mp3"
+    },
+	{
+      "game": "Rivals of Aether",
+      "file": "jingles/pc/rivalsofaether1.mp3"
+    },
+	{
+      "game": "Rivals of Aether II",
+      "file": "jingles/pc/rivalsofaether2.mp3"
+    },
+	{
+      "game": "Stardew Valley",
+      "file": "jingles/pc/stardewvalley.mp3"
+    },
+	{
+      "game": "Buckshot Roulette",
+      "file": "jingles/pc/buckshotroulette.mp3"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "game": "Katana ZERO",
+      "file": "jingles/pc/katanazero.mp3"
     }
   ]
 }
