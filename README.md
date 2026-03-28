@@ -1,5 +1,5 @@
 
-Jingle repo made up of mostly jingles for pc games.
+Mostly personal jingle repo made up of mostly jingles for pc games.
 
 Repository Owner: lyraignifan
 Repository Name: lyra-jingles
