@@ -52,6 +52,66 @@
     {
       "game": "Katana ZERO",
       "file": "jingles/pc/katanazero.mp3"
+    },
+	{
+      "game": "AMT Dream Simulator",
+      "file": "jingles/pc/amtdreamsimulator.mp3"
+    },
+	{
+      "game": "LSD Dream Emulator",
+      "file": "jingles/ps1/lsddreamemulator.mp3"
+    },
+	{
+      "game": "UNDERTALE",
+      "file": "jingles/pc/undertale.mp3"
+    },
+	{
+      "game": "DELTARUNE",
+      "file": "jingles/pc/deltarune.mp3"
+    },
+	{
+      "game": "Amnesia The Bunker",
+      "file": "jingles/pc/amnesiathebunker.mp3"
+    },
+	{
+      "game": "Euro Truck Simulator 2",
+      "file": "jingles/pc/eurotrucksimulator2.mp3"
+    },
+	{
+      "game": "American Truck Simulator",
+      "file": "jingles/pc/americantrucksimulator.mp3"
+    },
+	{
+      "game": "Pizza Tower",
+      "file": "jingles/pc/pizzatower.mp3"
+    },
+	{
+      "game": "Post Void",
+      "file": "jingles/pc/postvoid.mp3"
+    },
+	{
+      "game": "Plok",
+      "file": "jingles/snes/plok.mp3"
+    },
+	{
+      "game": "'the",
+      "file": "jingles/snes/'the.mp3"
+    },
+	{
+      "game": "Pokemon Ranger Guardian Signs",
+      "file": "jingles/ds/'pokemonrangerguardiansigns.mp3"
+    },
+	{
+      "game": "Pokemon SoulSilver",
+      "file": "jingles/ds/'pokemonhgss.mp3"
+    },
+	{
+      "game": "Pokemon HeartGold",
+      "file": "jingles/ds/'pokemonhgss.mp3"
+    },
+	{
+      "game": "OFF",
+      "file": "jingles/pc/off.mp3"
     }
   ]
 }
