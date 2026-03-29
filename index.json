@@ -99,15 +99,15 @@
     },
 	{
       "game": "Pokemon Ranger Guardian Signs",
-      "file": "jingles/ds/'pokemonrangerguardiansigns.mp3"
+      "file": "jingles/ds/pokemonrangerguardiansigns.mp3"
     },
 	{
-      "game": "Pokemon SoulSilver",
-      "file": "jingles/ds/'pokemonhgss.mp3"
+      "game": "Pokemon SoulSilver Version",
+      "file": "jingles/ds/pokemonhgss.mp3"
     },
 	{
-      "game": "Pokemon HeartGold",
-      "file": "jingles/ds/'pokemonhgss.mp3"
+      "game": "Pokemon HeartGold Version",
+      "file": "jingles/ds/pokemonhgss.mp3"
     },
 	{
       "game": "OFF",
